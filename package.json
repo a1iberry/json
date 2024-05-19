@@ -1,0 +1,9 @@
+{
+    "name": "json_loader",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "build": "node index.js"
+    }
+}
