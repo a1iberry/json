@@ -1,5 +1,5 @@
 {
-  "date": "2024-09-24T01:54:07.002Z",
+  "date": "2024-09-25T17:07:50.906Z",
   "total": 1701,
   "data": [
     {
@@ -1465,7 +1465,11 @@
       "film_rating": "6.909",
       "film_rating_num": "12 790",
       "film_vote_date": "2024.08.22, 08:26",
-      "film_vote": "2"
+      "film_vote": "2",
+      "film_director": "Брайан О’Мэлли",
+      "film_genre": "триллер, драма, детектив",
+      "film_rating_imdb": "6.30",
+      "film_rating_imdb_num": "1 913"
     },
     {
       "film_id": "441",
