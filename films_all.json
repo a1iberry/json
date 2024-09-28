@@ -1,5 +1,5 @@
 {
-  "date": "2024-09-28T09:34:46.877Z",
+  "date": "2024-09-28T17:32:54.160Z",
   "total": 1713,
   "data": [
     {
@@ -19129,7 +19129,11 @@
       "film_rating": "7.713",
       "film_rating_num": "24 595",
       "film_vote_date": "2021.01.26, 02:58",
-      "film_vote": "8"
+      "film_vote": "8",
+      "film_director": "Джиллиан Армстронг",
+      "film_genre": "драма, мелодрама, семейный",
+      "film_rating_imdb": "7.30",
+      "film_rating_imdb_num": "64 481"
     },
     {
       "film_id": "6877",
@@ -24551,7 +24555,11 @@
       "film_rating": "8.050",
       "film_rating_num": "360 762",
       "film_vote_date": "2014.07.28, 18:22",
-      "film_vote": "9"
+      "film_vote": "9",
+      "film_director": "Вольфганг Петерсен",
+      "film_genre": "боевик, история, драма",
+      "film_rating_imdb": "7.30",
+      "film_rating_imdb_num": "579 160"
     },
     {
       "film_id": "677731",
@@ -24671,7 +24679,11 @@
       "film_rating": "8.250",
       "film_rating_num": "408 384",
       "film_vote_date": "2014.07.13, 03:14",
-      "film_vote": "8"
+      "film_vote": "8",
+      "film_director": "Ник Кассаветис",
+      "film_genre": "драма, мелодрама",
+      "film_rating_imdb": "7.80",
+      "film_rating_imdb_num": "633 948"
     },
     {
       "film_id": "61305",
@@ -25507,7 +25519,11 @@
       "film_rating": "7.740",
       "film_rating_num": "138 754",
       "film_vote_date": "2014.01.12, 19:13",
-      "film_vote": "9"
+      "film_vote": "9",
+      "film_director": "Пэт О’Коннор",
+      "film_genre": "драма, мелодрама",
+      "film_rating_imdb": "6.70",
+      "film_rating_imdb_num": "95 465"
     },
     {
       "film_id": "102130",
@@ -25883,7 +25899,11 @@
       "film_rating": "7.809",
       "film_rating_num": "97 247",
       "film_vote_date": "2013.12.07, 05:13",
-      "film_vote": "10"
+      "film_vote": "10",
+      "film_director": "Джеймс Мэнголд",
+      "film_genre": "драма, биография",
+      "film_rating_imdb": "7.30",
+      "film_rating_imdb_num": "216 666"
     },
     {
       "film_id": "79204",
