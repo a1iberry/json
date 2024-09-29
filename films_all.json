@@ -1,5 +1,5 @@
 {
-  "date": "2024-09-28T17:32:54.160Z",
+  "date": "2024-09-29T05:32:37.294Z",
   "total": 1713,
   "data": [
     {
@@ -3421,7 +3421,11 @@
       "film_rating": "7.224",
       "film_rating_num": "105 504",
       "film_vote_date": "2024.04.26, 16:52",
-      "film_vote": "9"
+      "film_vote": "9",
+      "film_director": "София Коппола",
+      "film_genre": "драма, мелодрама",
+      "film_rating_imdb": "7.70",
+      "film_rating_imdb_num": "499 333"
     },
     {
       "film_id": "103464",
@@ -21753,7 +21757,11 @@
       "film_rating": "7.885",
       "film_rating_num": "32 658",
       "film_vote_date": "2019.01.10, 13:57",
-      "film_vote": "7"
+      "film_vote": "7",
+      "film_director": "Ларс фон Триер",
+      "film_genre": "драма",
+      "film_rating_imdb": "7.80",
+      "film_rating_imdb_num": "72 505"
     },
     {
       "film_id": "942396",
@@ -23229,7 +23237,11 @@
       "film_rating": "8.316",
       "film_rating_num": "447 652",
       "film_vote_date": "2016.02.13, 10:00",
-      "film_vote": "7"
+      "film_vote": "7",
+      "film_director": "Роберт Земекис",
+      "film_genre": "фантастика, приключения, боевик",
+      "film_rating_imdb": "7.80",
+      "film_rating_imdb_num": "583 110"
     },
     {
       "film_id": "476",
@@ -23593,7 +23605,11 @@
       "film_rating": "8.078",
       "film_rating_num": "398 824",
       "film_vote_date": "2015.11.29, 03:10",
-      "film_vote": "9"
+      "film_vote": "9",
+      "film_director": "Мартин Брест",
+      "film_genre": "мелодрама, фэнтези, драма",
+      "film_rating_imdb": "7.20",
+      "film_rating_imdb_num": "270 600"
     },
     {
       "film_id": "838533",
@@ -25799,7 +25815,11 @@
       "film_rating": "7.934",
       "film_rating_num": "319 049",
       "film_vote_date": "2013.12.22, 14:15",
-      "film_vote": "8"
+      "film_vote": "8",
+      "film_director": "Тим Бёртон",
+      "film_genre": "триллер, фэнтези, ужасы",
+      "film_rating_imdb": "7.30",
+      "film_rating_imdb_num": "389 527"
     },
     {
       "film_id": "395107",
